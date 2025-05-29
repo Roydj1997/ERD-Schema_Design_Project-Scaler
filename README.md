@@ -10,4 +10,4 @@ The schema's design prioritizes clarity and efficiency, demonstrating how a lean
 * Student Enrollment & Progress Tracking
 * Assignment & Submission Management
 
-Explore the SQL files to understand the table structures, relationships, and how sample data populates this system. This project serves as a clear blueprint for building the backend of a functional online learning platform.
+Explore the SQL file to understand the table structures, relationships, and how sample data populates this system. This project serves as a clear blueprint for building the backend of a functional online learning platform.
